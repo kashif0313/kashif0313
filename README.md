@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kashif0313
 - 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on web application
 - 📫 How to reach me  kashif.imran0313@gmail.com
 
