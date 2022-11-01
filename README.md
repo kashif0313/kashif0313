@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Angular framework**
 
-- 👨‍💻 All of my projects are available at [www.itskashifwork.epizy.com](www.itskashifwork.epizy.com)
+- 👨‍💻 All of my projects are available at ([www.itskashifwork.epizy.com](http://www.itskashifwork.epizy.com/))
 
 - 📫 How to reach me **kashif.imran0313@gmail.com**
 
