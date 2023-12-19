@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Kashif Imran</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 <img align="right" width="500" src="https://user-images.githubusercontent.com/65242138/199231917-e9595d7a-6159-456b-a1a4-27bd4eccda89.gif">
-- 🔭 I’m currently working on **Blog website**
+- 🔭 I’m currently working on **Aqua Trader Zone**
 
 - 🌱 I’m currently learning **Angular framework**
 
