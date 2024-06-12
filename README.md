@@ -25,9 +25,14 @@
 <h1 align="center">Visitors</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kashif0313&label=Profile%20views&color=000000&style=flat" alt="kashif0313" /> </p>
 <h1 align="center">Few of my Trofies</h1>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashif0313" alt="kashif0313" /></a> </p><hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashif0313&show_icons=true&theme=dark&locale=en&layout=compact" alt="kashif0313" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kashif0313&show_icons=true&theme=dark&locale=en" alt="kashif0313" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashif0313" alt="kashif0313" />
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashif0313&show_icons=true&theme=dark&locale=en&layout=compact" alt="kashif0313" />
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kashif0313&show_icons=true&theme=dark&locale=en" alt="kashif0313" /></p>
+
 
 
 [![@kashif0313's Holopin board](https://holopin.me/kashif0313)](https://holopin.io/@kashif0313)
